@@ -1,0 +1,8 @@
+.vagrant
+vagrant
+Vagrantfile
+admin
+api
+front
+*.log
+qrfp/node_modules
